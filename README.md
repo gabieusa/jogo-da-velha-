@@ -1,6 +1,6 @@
 # Jogo da velha
 
-Projeto produzido por um bootcamp com a [Digital Innovation One](https://digitalinnovation.one).
+Projeto produzido por um bootcamp pela [Digital Innovation One](https://digitalinnovation.one).
 
 # Descrição do projeto
 
