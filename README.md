@@ -1,4 +1,4 @@
-# Jogo-da-velha
+# Jogo da velha
 
 Projeto produzido para um bootcamp com a Digital Innovation One.
 
